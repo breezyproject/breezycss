@@ -1,4 +1,4 @@
-# Breezy CSS
+# Breezy CSS Framework
  
 Breezy open source project live soon* on GitHub.com
 
