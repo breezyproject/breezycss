@@ -1,5 +1,5 @@
 
-![breezycss-framework](https://github.com/breezyproject/breezycss/assets/2385058/6a322945-8e6a-4826-84e6-a4105cf2d2e4)
+![breezycss-framework](https://github.com/breezyproject/breezycss/assets/2385058/31f02cd7-e08a-440f-ad7a-eba6b99508e2)
 
 <p align="center">
 	Accelerate website development with rapid design and built-in accessibility.
