@@ -2,5 +2,7 @@
 
 Breezycss is an open source project released under the MIT license with its ongoing development made possible entirely by the support of the awesome sponsors and backers listed in this file.
 
-Bakers
+## Sponsors
+
+## Bakers
 - IHAR KRASNIK
