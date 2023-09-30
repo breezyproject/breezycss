@@ -12,5 +12,10 @@
 
 <hr>
 
-# Breezy CSS
+## Breezy CSS
+Currently under development.
+
+## Documentation
+Coming Soon...
+
 Visit [breezycss.com](https://breezycss.com).
