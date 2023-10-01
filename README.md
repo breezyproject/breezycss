@@ -12,7 +12,7 @@
 
 <hr>
 
-## Breezy CSS
+# Breezy CSS
 Currently under development.
 
 ## Documentation
