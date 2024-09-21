@@ -13,7 +13,8 @@
 <hr>
 
 # Breezy CSS
-Currently under development.
+> [!NOTE]
+> Currently under development.
 
 ## Documentation
 Coming Soon...
